@@ -1,0 +1,14 @@
+frmPrincipal = 653, 191, 1356, 803, , 28, 90, 671, 647, C
+modAbadia = 13, 3, 1055, 983, 
+modPantalla = -4, -3, 942, 609, 
+modFunciones = 155, 73, 1191, 685, C
+modTeclado = 198, 57, 1004, 668, C
+FrmDebug = 79, 165, 1005, 931, , 151, 56, 411, 368, C
+cDepuracion = 103, 360, 1203, 1032, C
+frmCheck = 62, 201, 869, 873, , 25, 94, 817, 931, C
+cTipoTabla = 773, 313, 1605, 980, C
+cStringList = 1, 2, 1299, 674, C
+cListaTipoTabla = 93, 202, 1391, 874, C
+cCheckEnvironment = 577, 0, 1555, 963, 
+cPosicion = 22, 22, 1100, 694, C
+cListaPosiciones = 44, 44, 1122, 716, C
